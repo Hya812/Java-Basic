@@ -1,4 +1,6 @@
 //Viết chương trình nhận vào số thực từ bàn phím và làm tròn một số thực x thành số nguyên (Nếu phần lẻ <5 thì làm tròn xuống, ngược lại làm tròn lên. VD: 3.4 thành 3; 3.6 thành 4)
+
+import java.util.Iterator;
 public class JavaBasic_1 {
 	public static int roundNumber(float number) {
 		// Ep kieu lay so nguyen
